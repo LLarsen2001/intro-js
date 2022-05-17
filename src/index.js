@@ -8,6 +8,9 @@
 // variables
 // when i say what is 1+1=2 1 == 1 true
 
+1 + 1 //2
+
+
 console.log('program running step 1')
 
 let isOdd
