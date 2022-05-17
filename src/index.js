@@ -7,5 +7,9 @@
 //Datatypes JS 
 // variables
 // when i say what is 1+1=2 1 == 1 true
-const PI = 3.1415
-console.log 
+
+console.log('program running step 1')
+
+let isOdd
+
+console.log('program running step 2')
