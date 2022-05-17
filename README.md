@@ -35,8 +35,18 @@ GITHUB - is the repo (your code, your project that git is tracking) on the web g
 1. create your own repo or clone repo from git hub
 2. Install dependencies (yarn)
 
+3. making changes commiting locally
 // then we start working on project
 // make changes and save in vs code 
 // 'commit' - saving changes to git
 // git add . or add files in vs code
-// add message in vs click
+// add message in vs click check
+
+$ git add . 
+$ git commmit -m'short message about what you did'
+
+4.makeing changes github... 'push'
+git push origin master
+git push origin main
+
+5. grab changes github... 'Pull
